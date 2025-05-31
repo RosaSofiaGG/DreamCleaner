@@ -1,10 +1,11 @@
 # Dream Cleaner
 
 **Desarrolladores:**
-
-[Rosa Sofía Medina Olivares.]: #
-[Elizabeth Serrano Hernández.]: #
-[Brenda Carolina Marquez Viruete.]: # 
+Rosa Sofia Medina Olivares
+E
+[Rosa Sofía Medina Olivares]: #
+[Elizabeth Serrano Hernández]: #
+[Brenda Carolina Marquez Viruete]: # 
 
 [AÃ±ade una imagen de tu juego.]: #
 
