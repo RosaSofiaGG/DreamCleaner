@@ -1,8 +1,7 @@
 # Dream Cleaner
 
 **Desarrolladores:**
-Rosa Sofia Medina Olivares
-E
+
 [Rosa Sofía Medina Olivares]: #
 [Elizabeth Serrano Hernández]: #
 [Brenda Carolina Marquez Viruete]: # 
@@ -14,11 +13,11 @@ E
 ## Tabla de evaluaciÃ³n del equipo.
 
 | Nombre | Colaboracion | Comunicacion | Responsabilidad
-| ----------- | ----------- | ----------- | ----------- |
-| Header | Title | - | - |
-| Paragraph | Text |  - | - |
+| Rosa Sofia | ----------- | ----------- | ----------- |
+| Elizabeth | Title | - | - |
+| Brenda Carolina | Text |  - | - |
 
-## 1. PropÃ³sito de tu juego
+## 1. Proposito de tu juego
 
 [Mostrar a las personas que la salud mental es importante y ver como con pensamientos tristes o negativos cambia tu perspectiva, el propósito del juego es desafíar y superar tus miedos.]: #
 
