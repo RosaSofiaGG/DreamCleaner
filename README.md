@@ -2,9 +2,7 @@
 
 **Desarrolladores:**
 
-[Rosa Sofía Medina Olivares]: #
-[Elizabeth Serrano Hernández]: #
-[Brenda Carolina Marquez Viruete]: # 
+[Rosa Sofía Medina Olivares, Elizabeth Serrano Hernández, Brenda Carolina Marquez Viruete ]: #
 
 [AÃ±ade una imagen de tu juego.]: #
 
@@ -12,13 +10,11 @@
 
 ## Tabla de evaluaciÃ³n del equipo.
 
-| Nombre | Colaboracion | Comunicacion | Responsabilidad
+| Nombre | ColaboraciÃ³n | ComunicaciÃ³n | Responsabilidad
+| ----------- | ----------- | ----------- | ----------- |
+| Header | Title | - | - |
+| Paragraph | Text |  - | - |
 
-| Rosa Sofia | ----------- | ----------- | ----------- |
-
-| Elizabeth | Title | - | - |
-
-| Brenda Carolina | Text |  - | - |
 
 ## 1. Proposito de tu juego
 
