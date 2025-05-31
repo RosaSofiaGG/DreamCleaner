@@ -13,6 +13,7 @@
 ## Tabla de evaluaciÃ³n del equipo.
 
 | Nombre | Colaboracion | Comunicacion | Responsabilidad
+
 | Rosa Sofia | ----------- | ----------- | ----------- |
 | Elizabeth | Title | - | - |
 | Brenda Carolina | Text |  - | - |
