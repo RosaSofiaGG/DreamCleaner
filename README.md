@@ -1,4 +1,3 @@
-# DreamCleaner
 # Dream Cleaner
 
 **Desarrolladores:**
@@ -13,7 +12,7 @@
 
 ## Tabla de evaluaciÃ³n del equipo.
 
-| Nombre | ColaboraciÃ³n | ComunicaciÃ³n | Responsabilidad
+| Nombre | Colaboracion | Comunicacion | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
 | Header | Title | - | - |
 | Paragraph | Text |  - | - |
