@@ -15,7 +15,9 @@
 | Nombre | Colaboracion | Comunicacion | Responsabilidad
 
 | Rosa Sofia | ----------- | ----------- | ----------- |
+
 | Elizabeth | Title | - | - |
+
 | Brenda Carolina | Text |  - | - |
 
 ## 1. Proposito de tu juego
