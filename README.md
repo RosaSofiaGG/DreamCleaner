@@ -2,7 +2,7 @@
 
 **Desarrolladores:**
 
-[Rosa Sofía Medina Olivares, Elizabeth Serrano Hernández, Brenda Carolina Marquez Viruete ]: #
+[Rosa Sofía Medina Olivares, Elizabeth Serrano Hernández, Brenda Carolina Marquez Viruete.]: #
 
 [AÃ±ade una imagen de tu juego.]: #
 
@@ -12,7 +12,7 @@
 
 | Nombre | ColaboraciÃ³n | ComunicaciÃ³n | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
-| Header | Title | - | - |
+| Rosa | Title | - | - |
 | Paragraph | Text |  - | - |
 
 
